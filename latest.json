@@ -9,7 +9,7 @@
   ],
   "platform": "windows-x64",
   "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.0-Max2024-2026.exe",
-  "size": 1782784,
-  "sha256": "53010ac2da762044cbf6a2596d68aedd9b55d0beaf807efee862f523324899fa",
-  "notes": "In-panel automatic updates and reviewable error reports. Distance, radius, diameter, area and overall sizes in world or object axes. Max 2024-2026."
+  "size": 1783296,
+  "sha256": "855e2e52fec24db0240da44ad8ecbdbaa4539f8528bfb7148e973a6a2c824e9c",
+  "notes": "In-panel updates with retryable downloads and reviewable error reports. Distance, radius, diameter, area and overall sizes in world or object axes. Max 2024-2026."
 }
