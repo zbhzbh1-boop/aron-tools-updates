@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.1-Max2024-2026.exe",
-  "size": 1783296,
-  "sha256": "68818d683f14bf73d3fc91dc87d5e7364e047faa55a5f1c9b7029479d83f48b0",
-  "notes": "Fix Ruler buttons becoming unresponsive when Max deletes Qt widgets. Tape, Dimension, Aligned, Chain, Linear X/Y/Z, Baseline and Ordinate tested with native viewport input in isolated Max 2025."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.2-Max2024-2026.exe",
+  "size": 1783808,
+  "sha256": "c81557f13f81256e5d7ba71ceaaf7082dd2ebea4228223c6427f536f3557f4ab",
+  "notes": "Ruler: restore original viewport focus behavior, reuse original quick-tool actions, clearer tool errors and redesigned measurement page with version label. Original 4.5.0 engine retained; complete placement/persistence checks in isolated Max 2025 passed."
 }
