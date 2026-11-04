@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "product": "AronTools",
+  "version": "2.2.0",
+  "max_versions": [
+    2024,
+    2025,
+    2026
+  ],
+  "platform": "windows-x64",
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.0-Max2024-2026.exe",
+  "size": 1782784,
+  "sha256": "53010ac2da762044cbf6a2596d68aedd9b55d0beaf807efee862f523324899fa",
+  "notes": "In-panel automatic updates and reviewable error reports. Distance, radius, diameter, area and overall sizes in world or object axes. Max 2024-2026."
+}
