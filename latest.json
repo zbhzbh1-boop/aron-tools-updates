@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.2-Max2024-2026.exe",
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.3-Max2024-2026.exe",
   "size": 1783808,
-  "sha256": "c81557f13f81256e5d7ba71ceaaf7082dd2ebea4228223c6427f536f3557f4ab",
-  "notes": "Ruler: restore original viewport focus behavior, reuse original quick-tool actions, clearer tool errors and redesigned measurement page with version label. Original 4.5.0 engine retained; complete placement/persistence checks in isolated Max 2025 passed."
+  "sha256": "781c8f58aa469ca9a014edb246f33356cc7004c998a424ac75949458302996ff",
+  "notes": "Relink uses the supplied 2.3.3 Panel directly, with only Aron styling/layout. Removed custom worker, result-population and preview overrides. Original indexing, relink and checkpoint restore tested in an isolated Max 2025 scene."
 }
