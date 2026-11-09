@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.4-Max2024-2026.exe",
-  "size": 1789440,
-  "sha256": "7c9bc4e5d3aee778dba52d1f50191d6ecc9fecd8b69bab9e7e8471f06870781f",
-  "notes": "New References board: local image files, Paste, drag and zoom, detachable window, persistent layout and PNG view export. Archive: Allow incomplete package is always checked; review reports remain enabled."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.5-Max2024-2026.exe",
+  "size": 1798656,
+  "sha256": "cf41da2c79db0fff6ccb0b664d74406df57b58372685a44b8b89383d713bdab0",
+  "notes": "References: detachable persistent image board. Scene Check: read-only audit, modifier inventory and reviewed undoable flag repairs; unassessed categories are labeled. Archive: create-only page, Open folder, incomplete packages always allowed. Ruler toolbar button temporarily disabled."
 }
