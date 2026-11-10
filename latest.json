@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.7-Max2024-2026.exe",
-  "size": 1809408,
-  "sha256": "d426529ccca70d8f89ec41c090ba765b84d62665a89be5e97b7303bab3a3a320",
-  "notes": "Clear installer: Install Max tools first, then Activate Chrome extension as a separate step. No automatic browser opening after Max installation. In-panel updates still keep the Max scene open."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.8-Max2024-2026.exe",
+  "size": 1816064,
+  "sha256": "73cdb92615928128c55397b8bae3f36aa6b6950444bdcdcbceb3a3da4e02381e",
+  "notes": "New Clipboard section: copy selected objects and paste in another scene or Max session on the same PC. Preserves materials, modifier stacks and placement. Includes children/groups, unit readout, persistent local clipboard and collision-safe native merge."
 }
