@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.9",
+  "version": "2.2.10",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.9-Max2024-2026.exe",
-  "size": 1824256,
-  "sha256": "dc839317126304a585a260a863fe1506d205153a2fc5394dc77680dc976824b1",
-  "notes": "Custom toolbar order and More tools: drag to add, Shift-drag to reorder, saved layout. Independent Object/Material/Modifier clipboards. Icons-only setting. Original Import icon; dropdown indicator hidden."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.10-Max2024-2026.exe",
+  "size": 1825280,
+  "sha256": "338e6068ae1382dff5282ea6d123b41fc3414ebdbfd419c1ec29d975c95962c0",
+  "notes": "Modern rounded scrollbars across Aron: transparent tracks, no classic arrows or checkerboard, teal hover and pressed states, consistent vertical and horizontal appearance. Saved toolbar layout retained."
 }
