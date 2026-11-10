@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.10",
+  "version": "2.2.11",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.10-Max2024-2026.exe",
-  "size": 1825280,
-  "sha256": "338e6068ae1382dff5282ea6d123b41fc3414ebdbfd419c1ec29d975c95962c0",
-  "notes": "Modern rounded scrollbars across Aron: transparent tracks, no classic arrows or checkerboard, teal hover and pressed states, consistent vertical and horizontal appearance. Saved toolbar layout retained."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.11-Max2024-2026.exe",
+  "size": 1825792,
+  "sha256": "175d93ab3521a6d9cbf7123b26730682a51490c9122e8b486b46e5d888eb06b0",
+  "notes": "Open tools directly from More tools without pinning: Open button, double-click or Enter. Import keeps its own menu. Saved toolbar layout remains unchanged."
 }
