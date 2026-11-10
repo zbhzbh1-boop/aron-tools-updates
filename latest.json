@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.8",
+  "version": "2.2.9",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.8-Max2024-2026.exe",
-  "size": 1816064,
-  "sha256": "73cdb92615928128c55397b8bae3f36aa6b6950444bdcdcbceb3a3da4e02381e",
-  "notes": "New Clipboard section: copy selected objects and paste in another scene or Max session on the same PC. Preserves materials, modifier stacks and placement. Includes children/groups, unit readout, persistent local clipboard and collision-safe native merge."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.9-Max2024-2026.exe",
+  "size": 1824256,
+  "sha256": "dc839317126304a585a260a863fe1506d205153a2fc5394dc77680dc976824b1",
+  "notes": "Custom toolbar order and More tools: drag to add, Shift-drag to reorder, saved layout. Independent Object/Material/Modifier clipboards. Icons-only setting. Original Import icon; dropdown indicator hidden."
 }
