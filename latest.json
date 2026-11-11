@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.14",
+  "version": "2.2.15",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.14-Max2024-2026.exe",
-  "size": 1838080,
-  "sha256": "e796274e8ab73352371514f38cad1389520bf1da4f7b8dab14994eb386345876",
-  "notes": "Select Tools: six simple Persian buttons for same material, true instances, base class, hidden, frozen and inverse selection. Review results, then select. Selection only; native Undo. Open from More tools without pinning."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.15-Max2024-2026.exe",
+  "size": 1842176,
+  "sha256": "d9b5f8a2044a4b9be5facffc762f8d85ba14521d16f10352d068ce4a528b47ac",
+  "notes": "Transform Tools: six simple Persian buttons. World-axis 90 degree turns around individual pivots, selection center to origin, centered ground placement, straighten rotation. Review before Apply; one Undo. Independent static objects only."
 }
