@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.13",
+  "version": "2.2.14",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.13-Max2024-2026.exe",
-  "size": 1832960,
-  "sha256": "457c6b50d1f78e85862288098bd0040f9ab329f84b9405c949b4465bd3df884e",
-  "notes": "Simple Quick Tools: six Persian buttons, relevant settings only, read-only review then Apply. Ground, align, equal gaps, pivots and batch rename. One Undo per operation; independent static objects. Native Max2025 tested."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.14-Max2024-2026.exe",
+  "size": 1838080,
+  "sha256": "e796274e8ab73352371514f38cad1389520bf1da4f7b8dab14994eb386345876",
+  "notes": "Select Tools: six simple Persian buttons for same material, true instances, base class, hidden, frozen and inverse selection. Review results, then select. Selection only; native Undo. Open from More tools without pinning."
 }
