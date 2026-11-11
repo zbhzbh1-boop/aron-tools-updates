@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.11",
+  "version": "2.2.12",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.11-Max2024-2026.exe",
-  "size": 1825792,
-  "sha256": "175d93ab3521a6d9cbf7123b26730682a51490c9122e8b486b46e5d888eb06b0",
-  "notes": "Open tools directly from More tools without pinning: Open button, double-click or Enter. Import keeps its own menu. Saved toolbar layout remains unchanged."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.12-Max2024-2026.exe",
+  "size": 1831936,
+  "sha256": "e1c967822609745155c84137f2ed4d704ec2f57e64ff6ac378943fff9f23cf84",
+  "notes": "Quick Tools: ground to Z=0, world-axis center alignment, equal gaps, center/bottom pivot, collision-free batch rename. Preview before apply; one Undo; static independent objects. Open from More tools without pinning."
 }
