@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.16",
+  "version": "2.2.18",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.16-Max2024-2026.exe",
-  "size": 1850368,
-  "sha256": "1923a83a3d1442075f557fcdb4280faff4d6158c261327bbcd2c768e83c59035",
-  "notes": "Smart Studio: ten combined workflows. Five layouts (catalog grid, row, reference height, mirrored placement, reference ring) and five review tools (bounds overlap, above/crossing reference top, size outliers, distinct same-name materials). Review before apply; native Undo; static independent objects. Bounds-based checks are approximate."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.18-Max2024-2026.exe",
+  "size": 1850880,
+  "sha256": "b1eeeb5a18eda2c392526f9c9854d81171489936db5afb40f79a8afd0b9be11e",
+  "notes": "Scene Check: review, fix flags and delete selected findings with Undo. Includes the original Relink panel."
 }
