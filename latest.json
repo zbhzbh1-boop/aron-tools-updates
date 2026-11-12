@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.15",
+  "version": "2.2.16",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.15-Max2024-2026.exe",
-  "size": 1842176,
-  "sha256": "d9b5f8a2044a4b9be5facffc762f8d85ba14521d16f10352d068ce4a528b47ac",
-  "notes": "Transform Tools: six simple Persian buttons. World-axis 90 degree turns around individual pivots, selection center to origin, centered ground placement, straighten rotation. Review before Apply; one Undo. Independent static objects only."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.16-Max2024-2026.exe",
+  "size": 1850368,
+  "sha256": "1923a83a3d1442075f557fcdb4280faff4d6158c261327bbcd2c768e83c59035",
+  "notes": "Smart Studio: ten combined workflows. Five layouts (catalog grid, row, reference height, mirrored placement, reference ring) and five review tools (bounds overlap, above/crossing reference top, size outliers, distinct same-name materials). Review before apply; native Undo; static independent objects. Bounds-based checks are approximate."
 }
