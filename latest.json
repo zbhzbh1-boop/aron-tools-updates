@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.20",
+  "version": "2.2.21",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.20-Max2024-2026.exe",
-  "size": 1870336,
-  "sha256": "1a564c6456dfe4a57ac0a3c2b440bfe5c495f077589e3cfb8dd3a648fe20aca8",
-  "notes": "Central Persian/English preferences, three interface styles and an independent custom accent color for each style."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.21-Max2024-2026.exe",
+  "size": 1872384,
+  "sha256": "511988b9c41522f9556d177167a6b96d2111e6b724b3fc4ceac76bb4db95026f",
+  "notes": "Five distinct tool layouts: Studio strip, two-row Ribbon, Tiles, Side rail and a pinned-tool Launcher. Each has a saved accent color."
 }
