@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.18",
+  "version": "2.2.19",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.18-Max2024-2026.exe",
-  "size": 1850880,
-  "sha256": "b1eeeb5a18eda2c392526f9c9854d81171489936db5afb40f79a8afd0b9be11e",
-  "notes": "Scene Check: review, fix flags and delete selected findings with Undo. Includes the original Relink panel."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.19-Max2024-2026.exe",
+  "size": 1856000,
+  "sha256": "e7a202f8383ee3611fec7fb92cf9e58a8eabfddb7bba7c9c2a638e7fd208d421",
+  "notes": "Redesigned tool library, Persian and English search, toolbar editing and Scene Check summary. Simplified controls throughout the suite."
 }
