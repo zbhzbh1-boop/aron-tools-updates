@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.19",
+  "version": "2.2.20",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.19-Max2024-2026.exe",
-  "size": 1856000,
-  "sha256": "e7a202f8383ee3611fec7fb92cf9e58a8eabfddb7bba7c9c2a638e7fd208d421",
-  "notes": "Redesigned tool library, Persian and English search, toolbar editing and Scene Check summary. Simplified controls throughout the suite."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.20-Max2024-2026.exe",
+  "size": 1870336,
+  "sha256": "1a564c6456dfe4a57ac0a3c2b440bfe5c495f077589e3cfb8dd3a648fe20aca8",
+  "notes": "Central Persian/English preferences, three interface styles and an independent custom accent color for each style."
 }
