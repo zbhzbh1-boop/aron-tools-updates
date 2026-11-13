@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.21",
+  "version": "2.2.22",
   "max_versions": [
     2024,
     2025,
     2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.21-Max2024-2026.exe",
-  "size": 1872384,
-  "sha256": "511988b9c41522f9556d177167a6b96d2111e6b724b3fc4ceac76bb4db95026f",
-  "notes": "Five distinct tool layouts: Studio strip, two-row Ribbon, Tiles, Side rail and a pinned-tool Launcher. Each has a saved accent color."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.22-Max2024-2026.exe",
+  "size": 1875456,
+  "sha256": "c779b661f27ec2c4da9c35e1e8638907974d82dda686fb4e09a263c8f197e6c6",
+  "notes": "Five complete panel themes. Customize the background and accent separately for each theme. The toolbar, drawers, controls, menus and tool library follow the selected palette."
 }
