@@ -1,15 +1,16 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.22",
+  "version": "2.2.23",
   "max_versions": [
     2024,
     2025,
-    2026
+    2026,
+    2027
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.22-Max2024-2026.exe",
-  "size": 1875456,
-  "sha256": "c779b661f27ec2c4da9c35e1e8638907974d82dda686fb4e09a263c8f197e6c6",
-  "notes": "Five complete panel themes. Customize the background and accent separately for each theme. The toolbar, drawers, controls, menus and tool library follow the selected palette."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.23-Max2024-2027.exe",
+  "size": 1879552,
+  "sha256": "bf1ee6b3dfe240070686266e9a78c38a760f53a5de10a6252abc8b7a6a74ee37",
+  "notes": "Adds 3ds Max 2027 support to the Windows installer and in-panel updates. Tested in 3ds Max 2027.2."
 }
