@@ -1,16 +1,15 @@
 {
   "schema": 1,
   "product": "AronTools",
-  "version": "2.2.23",
+  "version": "2.2.24",
   "max_versions": [
     2024,
     2025,
-    2026,
-    2027
+    2026
   ],
   "platform": "windows-x64",
-  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.23-Max2024-2027.exe",
-  "size": 1879552,
-  "sha256": "bf1ee6b3dfe240070686266e9a78c38a760f53a5de10a6252abc8b7a6a74ee37",
-  "notes": "Adds 3ds Max 2027 support to the Windows installer and in-panel updates. Tested in 3ds Max 2027.2."
+  "url": "https://raw.githubusercontent.com/zbhzbh1-boop/aron-tools-updates/main/AronTools-Setup-2.2.24-Max2024-2026.exe",
+  "size": 1876480,
+  "sha256": "187dce0dcb95733f721826a3c6a221fa4e0ac289577fb63fdf8368087bc5a768",
+  "notes": "Archive automatically numbers same-name project folders and ZIP or RAR exports. Earlier archives are preserved."
 }
